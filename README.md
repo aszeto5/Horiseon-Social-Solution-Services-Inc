@@ -1,6 +1,6 @@
 # Horiseon-Social-Solution-Services-Inc
 
-##Purpose
+## Purpose
 A social service provider that includes search engine optimization, online reputation management, and social media marketing.
 
 ## Website
